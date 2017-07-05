@@ -1,0 +1,16 @@
+/.settings
+
+/target
+
+/.classpath
+
+/.project
+
+/.idea
+node_modules
+/logs
+*.iml
+
+npm-debug.log
+null/antispam.log
+null/
